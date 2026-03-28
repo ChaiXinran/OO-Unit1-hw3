@@ -1,0 +1,6 @@
+*.class
+.vscode/
+hack/
+*.md
+*.txt
+*.png
